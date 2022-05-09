@@ -1,75 +1,6 @@
 {
   "users": [
     {
-      "id": 2,
-      "name": "Ervin Howell",
-      "username": "Antonette",
-      "email": "Shanna@melissa.tv",
-      "address": {
-        "street": "Victor Plains",
-        "suite": "Suite 879",
-        "city": "Wisokyburgh",
-        "zipcode": "90566-7771",
-        "geo": {
-          "lat": "-43.9509",
-          "lng": "-34.4618"
-        }
-      },
-      "phone": "010-692-6593 x09125",
-      "website": "anastasia.net",
-      "company": {
-        "name": "Deckow-Crist",
-        "catchPhrase": "Proactive didactic contingency",
-        "bs": "synergize scalable supply-chains"
-      }
-    },
-    {
-      "id": 3,
-      "name": "Clementine Bauch",
-      "username": "Samantha",
-      "email": "Nathan@yesenia.net",
-      "address": {
-        "street": "Douglas Extension",
-        "suite": "Suite 847",
-        "city": "McKenziehaven",
-        "zipcode": "59590-4157",
-        "geo": {
-          "lat": "-68.6102",
-          "lng": "-47.0653"
-        }
-      },
-      "phone": "1-463-123-4447",
-      "website": "ramiro.info",
-      "company": {
-        "name": "Romaguera-Jacobson",
-        "catchPhrase": "Face to face bifurcated interface",
-        "bs": "e-enable strategic applications"
-      }
-    },
-    {
-      "id": 4,
-      "name": "Patricia Lebsack",
-      "username": "Karianne",
-      "email": "Julianne.OConner@kory.org",
-      "address": {
-        "street": "Hoeger Mall",
-        "suite": "Apt. 692",
-        "city": "South Elvis",
-        "zipcode": "53919-4257",
-        "geo": {
-          "lat": "29.4572",
-          "lng": "-164.2990"
-        }
-      },
-      "phone": "493-170-9623 x156",
-      "website": "kale.biz",
-      "company": {
-        "name": "Robel-Corkery",
-        "catchPhrase": "Multi-tiered zero tolerance productivity",
-        "bs": "transition cutting-edge web services"
-      }
-    },
-    {
       "id": 5,
       "name": "Chelsey Dietrich",
       "username": "Kamren",
@@ -85,7 +16,7 @@
         }
       },
       "phone": "(254)954-1289",
-      "website": "demarco.info",
+      "website": "USA",
       "company": {
         "name": "Keebler LLC",
         "catchPhrase": "User-centric fault-tolerant solution",
@@ -108,7 +39,7 @@
         }
       },
       "phone": "1-477-935-8478 x6430",
-      "website": "ola.org",
+      "website": "London",
       "company": {
         "name": "Considine-Lockman",
         "catchPhrase": "Synchronised bottom-line interface",
@@ -131,7 +62,7 @@
         }
       },
       "phone": "210.067.6132",
-      "website": "elvis.io",
+      "website": "Canada",
       "company": {
         "name": "Johns Group",
         "catchPhrase": "Configurable multimedia task-force",
@@ -151,8 +82,16 @@
       "username": "ansari123",
       "email": "ansari12@gmail.com",
       "phone": "22222222222",
-      "website": "abu.com",
+      "website": "Demra,Dhaka,Bangladesh",
       "id": 9
+    },
+    {
+      "name": "Samir",
+      "username": "samir71",
+      "email": "samir@gmail.com",
+      "phone": "0123546977",
+      "website": "Dhaka",
+      "id": 10
     }
   ]
 }
